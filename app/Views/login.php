@@ -12,7 +12,7 @@
         <?= session()->getFlashdata('error') ?>
     </p>
 <?php endif; ?>
-//test commit
+//test commits
 <form method="post" action="/do-login">
     <label>Email</label><br>
     <input type="email" name="email" required><br><br>
