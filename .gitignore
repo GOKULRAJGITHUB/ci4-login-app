@@ -1,0 +1,18 @@
+# CI4 writable files
+/writable/*
+!/writable/.htaccess
+
+# Environment file
+.env
+
+# Vendor (optional: keep if using composer install in CI)
+vendor/
+
+# Cache
+*.log
+*.cache
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
