@@ -1,5 +1,5 @@
 <?php
-Undo an commit from branch
+
 use CodeIgniter\Boot;
 use Config\Paths;
 
